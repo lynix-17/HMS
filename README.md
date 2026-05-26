@@ -444,5 +444,3 @@ def main_menu():
 
 main_menu()
 db.close()
-this is the code just review it and describe how it actually works
-
